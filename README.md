@@ -24,5 +24,5 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local:
 1. **Clona el repositorio:**
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repo.git
-cd tu-repo
+git clone https://github.com/jhongonzalezs/Flutter_SQFLite_CRUD_App.git
+cd Flutter_SQFLite_CRUD_App
